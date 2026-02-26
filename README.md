@@ -1,4 +1,4 @@
-## 🧠 Mastery Roadmap
+## Frontend Interview Practice
 
 This repository focuses on mastering core frontend interview problems through repeated implementation and refinement.
 
